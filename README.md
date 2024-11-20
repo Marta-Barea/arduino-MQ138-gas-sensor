@@ -41,8 +41,6 @@ To replicate this project, you will need:
 ## 📥 Installation
 
 1. Clone this repository:
-
-1. Clone the repository:
  <pre markdown="1"> ``bash
             git clone https://github.com/Marta-Barea/arduino-MQ138-gas-sensor.git
             cd arduino-MQ138-gas-sensor </pre>
