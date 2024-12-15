@@ -41,10 +41,10 @@ To replicate this project, you will need:
 ## 📥 Installation
 
 1. Clone this repository:
- <pre markdown="1"> ``bash
-            git clone https://github.com/Marta-Barea/arduino-MQ138-gas-sensor.git
-            cd arduino-MQ138-gas-sensor </pre>
-
+```bash
+git clone https://github.com/Marta-Barea/arduino-MQ138-gas-sensor.git
+cd arduino-MQ138-gas-sensor
+```
 2. Open the Arduino Serial Monitor and set the baud rate to `9600`.
 3. Observe the sensor readings in real-time. The output includes raw analog values, which can be processed to estimate gas concentrations.
 
